@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_Ravishankar</name>
+   <tag></tag>
+   <elementGuidId>9e88712c-3380-4e0b-9a13-f00722699d73</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Show All Results for ', '&quot;', 'ravishankar', '&quot;', '')])[1]/following::lightning-base-combobox-item[1]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='User'])[7]/following::strong[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#combobox-input-320-1-320 > span.slds-media__body > span.slds-listbox__option-text.slds-listbox__option-text_entity > lightning-base-combobox-formatted-text.slds-truncate > strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>ab80edab-fa80-4731-9291-485570cef0b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ravishankar</value>
+      <webElementGuid>5f091ffb-3e61-4f67-95cb-05e4da87a5ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Show All Results for ', '&quot;', 'ravishankar', '&quot;', '')])[1]/following::lightning-base-combobox-item[1]</value>
+      <webElementGuid>664adbdb-892c-4f74-b0b1-33041d94fdcf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//lightning-base-combobox-item[@id='combobox-input-320-1-320']/span[2]/span/lightning-base-combobox-formatted-text/strong</value>
+      <webElementGuid>1982649a-5430-420d-8c12-15fb52bb2938</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User'])[7]/following::strong[1]</value>
+      <webElementGuid>e44bc6de-175e-474f-b93c-149318a87765</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Staging Location'])[2]/preceding::strong[1]</value>
+      <webElementGuid>e21f9719-c43f-4cfa-85fe-a6501be14e31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Post-Training Approver'])[1]/preceding::strong[1]</value>
+      <webElementGuid>0f21bfd9-5dcb-4b14-82dd-d76d39d9be38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ravishankar']/parent::*</value>
+      <webElementGuid>4fb99f4c-05cb-4882-a452-2c3b477109cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//records-record-layout-row[4]/slot/records-record-layout-item[2]/div/span/slot/records-record-layout-lookup/lightning-lookup/lightning-lookup-desktop/lightning-grouped-combobox/div/div/lightning-base-combobox/div/div[2]/ul/li/lightning-base-combobox-item/span[2]/span/lightning-base-combobox-formatted-text/strong</value>
+      <webElementGuid>1056f2cf-d27d-4250-b7f5-8389578f0cbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'Ravishankar' or . = 'Ravishankar')]</value>
+      <webElementGuid>eda04071-8fed-433d-b69c-1274d88d4d8b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_U.S. Citizen</name>
+   <tag></tag>
+   <elementGuidId>e3e95000-ff79-4f37-9161-7dd107d48dcc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'U.S. Citizen' or . = 'U.S. Citizen')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//lightning-base-combobox-item[@id='combobox-button-614-1-614']/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#combobox-button-614-1-614 > span.slds-media__body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b651a8f9-e63e-4296-b991-b01b092b8b5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-media__body</value>
+      <webElementGuid>84e9d8e8-a993-462d-bc5f-7e558432441d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>U.S. Citizen</value>
+      <webElementGuid>c70879f8-38b1-4bc7-a954-0be7510ea2ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;combobox-button-614-1-614&quot;)/span[@class=&quot;slds-media__body&quot;]</value>
+      <webElementGuid>2d8519f1-3e3b-46e8-816c-f3bf766cd36b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//lightning-base-combobox-item[@id='combobox-button-614-1-614']/span[2]</value>
+      <webElementGuid>e477702d-d400-4912-b412-7ef1a3b58361</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//lightning-base-combobox-item[2]/span[2]</value>
+      <webElementGuid>6c2ca3ba-d72c-483f-a4f6-4b80d19b4539</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'U.S. Citizen' or . = 'U.S. Citizen')]</value>
+      <webElementGuid>71bfa450-7e55-4257-a9f7-6268cc638cdc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

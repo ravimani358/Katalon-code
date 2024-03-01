@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC2_Start Requirement (89961)</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>Azure</productName>
+      <properties>
+         <entry>
+            <key>azure.testcase.ids</key>
+            <value>94694</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <testCaseGuid>267e11fa-6e27-43e6-9dd1-a9a040920aeb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>32da6bd5-58ef-4591-bac8-f1e10af82ae3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2f01dc4a-a9fa-4c1b-a2f9-4057cfdfc692</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.Contact_ID</defaultValue>
+      <description></description>
+      <id>32da6bd5-58ef-4591-bac8-f1e10af82ae3</id>
+      <masked>false</masked>
+      <name>ContactID</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.Contact_URL</defaultValue>
+      <description></description>
+      <id>2f01dc4a-a9fa-4c1b-a2f9-4057cfdfc692</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+</TestCaseEntity>

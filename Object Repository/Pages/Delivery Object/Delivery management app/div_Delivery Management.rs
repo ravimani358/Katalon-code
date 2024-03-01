@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Delivery Management</name>
+   <tag></tag>
+   <elementGuidId>a383f336-01c2-4df0-8c5a-79315c3d6098</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.slds-size_small</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Delivery Management' or . = 'Delivery Management')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='DeliveryManagement']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>afca0de8-081f-4b2b-8ff8-24e915c3bdae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-size_small</value>
+      <webElementGuid>b35f1eaa-9d5a-4368-8652-06d89a6569ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delivery Management</value>
+      <webElementGuid>521b6aaf-90cb-46ce-8b6d-6898e7594ccf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DeliveryManagement&quot;)/div[@class=&quot;slds-size_small&quot;]</value>
+      <webElementGuid>8f3f78b1-14ec-4833-96b7-37202af9bc2c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='DeliveryManagement']/div</value>
+      <webElementGuid>181abfad-bd58-4a2c-8b82-4c09481df9e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//one-app-launcher-menu-item/a/div</value>
+      <webElementGuid>4a31b19f-349e-4a58-b4a3-e4d95b8f8efa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Delivery Management' or . = 'Delivery Management')]</value>
+      <webElementGuid>d042607f-ffbe-4287-bf76-dd4ff2a8d403</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

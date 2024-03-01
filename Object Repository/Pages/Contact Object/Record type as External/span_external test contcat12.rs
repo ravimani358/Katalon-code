@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_external test contcat12</name>
+   <tag></tag>
+   <elementGuidId>f5089876-d6fe-4cad-8d11-f349ea47ea3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='brandBand_2']/div/div/div[3]/div/div/one-record-home-flexipage2/forcegenerated-adg-rollup_component___force-generated__flexipage_-record-page___-external-contact___-contact___-v-i-e-w/forcegenerated-flexipage_externalcontact_contact__view_js/record_flexipage-desktop-record-page-decorator/div/records-record-layout-event-broker/slot/slot/flexipage-record-home-template-desktop2/div/div/slot/flexipage-component2/slot/records-lwc-highlights-panel/records-lwc-record-layout/forcegenerated-highlightspanel_contact___0120d0000001hjkaau___compact___view___recordlayout2/records-highlights2/div/div/div/div[2]/h1/slot/sfa-output-name-with-hierarchy-icon-contact/sfa-output-name-with-hierarchy-icon-wrapper/force-aura-action-wrapper/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.custom-truncate.uiOutputText</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bce6e9dd-0a88-49cb-b1b0-4b28ba24ec0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-truncate uiOutputText</value>
+      <webElementGuid>d992e48b-a842-4eb2-a617-e6ac6b918c46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>2550:0</value>
+      <webElementGuid>70ba9d23-efea-47a4-aee8-5f7fc24396ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-class</name>
+      <type>Main</type>
+      <value>uiOutputText</value>
+      <webElementGuid>fa4fa2c8-bb53-421d-ae3f-924bbeea4ff5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>external test contcat12</value>
+      <webElementGuid>cf45934b-c47f-4863-a63a-4838c992faca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;brandBand_2&quot;)/div[@class=&quot;slds-template__container&quot;]/div[@class=&quot;center oneCenterStage lafSinglePaneWindowManager&quot;]/div[@class=&quot;windowViewMode-normal oneContent active lafPageHost&quot;]/div[@class=&quot;oneRecordHomeFlexipage2Wrapper&quot;]/div[@class=&quot;recordHomeFlexipage2&quot;]/one-record-home-flexipage2[1]/forcegenerated-adg-rollup_component___force-generated__flexipage_-record-page___-external-contact___-contact___-v-i-e-w[@class=&quot;adg-rollup-wrapped&quot;]/forcegenerated-flexipage_externalcontact_contact__view_js[@class=&quot;forcegenerated-flexipage-module&quot;]/record_flexipage-desktop-record-page-decorator[1]/div[@class=&quot;record-page-decorator&quot;]/records-record-layout-event-broker[1]/slot[1]/slot[1]/flexipage-record-home-template-desktop2[@class=&quot;forcegenerated-flexipage-template&quot;]/div[@class=&quot;slds-grid slds-wrap&quot;]/div[@class=&quot;slds-col slds-size_1-of-1 row region-header&quot;]/slot[1]/flexipage-component2[1]/slot[1]/records-lwc-highlights-panel[1]/records-lwc-record-layout[1]/forcegenerated-highlightspanel_contact___0120d0000001hjkaau___compact___view___recordlayout2[@class=&quot;forcegenerated-record-layout2&quot;]/records-highlights2[1]/div[@class=&quot;highlights slds-clearfix slds-page-header slds-page-header_record-home fixed-position&quot;]/div[@class=&quot;slds-grid primaryFieldRow&quot;]/div[@class=&quot;slds-grid slds-col slds-has-flexi-truncate&quot;]/div[@class=&quot;slds-media__body&quot;]/h1[1]/slot[@class=&quot;slds-page-header__title slds-m-right--small slds-align-middle clip-text slds-line-clamp&quot;]/sfa-output-name-with-hierarchy-icon-contact[1]/sfa-output-name-with-hierarchy-icon-wrapper[1]/force-aura-action-wrapper[1]/div[1]/div[@class=&quot;testonly-outputNameWithHierarchyIcon slds-grid sfaOutputNameWithHierarchyIcon&quot;]/span[@class=&quot;custom-truncate uiOutputText&quot;]</value>
+      <webElementGuid>fb383cd4-fc31-4211-b7ce-95cb62624fc8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='brandBand_2']/div/div/div[3]/div/div/one-record-home-flexipage2/forcegenerated-adg-rollup_component___force-generated__flexipage_-record-page___-external-contact___-contact___-v-i-e-w/forcegenerated-flexipage_externalcontact_contact__view_js/record_flexipage-desktop-record-page-decorator/div/records-record-layout-event-broker/slot/slot/flexipage-record-home-template-desktop2/div/div/slot/flexipage-component2/slot/records-lwc-highlights-panel/records-lwc-record-layout/forcegenerated-highlightspanel_contact___0120d0000001hjkaau___compact___view___recordlayout2/records-highlights2/div/div/div/div[2]/h1/slot/sfa-output-name-with-hierarchy-icon-contact/sfa-output-name-with-hierarchy-icon-wrapper/force-aura-action-wrapper/div/div/span</value>
+      <webElementGuid>4b3c236f-90e8-4f64-8b88-75e4ff667f6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//force-aura-action-wrapper/div/div/span</value>
+      <webElementGuid>84dbfd1f-1e34-4266-81e4-cd21d8b6f063</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'external test contcat12' or . = 'external test contcat12')]</value>
+      <webElementGuid>b69debcb-336c-42bc-bd8d-b4b568e04aa2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

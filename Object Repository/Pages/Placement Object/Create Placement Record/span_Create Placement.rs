@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Create Placement</name>
+   <tag></tag>
+   <elementGuidId>e997bd17-0568-407e-a684-1b65b1443e09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@title = 'Create Placement' and (text() = 'Create Placement' or . = 'Create Placement')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='brandBand_2']/div/div/div/div/one-record-home-flexipage2/forcegenerated-adg-rollup_component___force-generated__flexipage_-record-page___-submittal_-record_-page___-submittal__c___-v-i-e-w/forcegenerated-flexipage_submittal_record_page_submittal__c__view_js/record_flexipage-desktop-record-page-decorator/div/records-record-layout-event-broker/slot/slot/flexipage-record-home-template-desktop2/div/div[2]/div[2]/slot/flexipage-component2/slot/flexipage-aura-wrapper/div/div/div/div/div/ul/li[2]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f8611644-bc85-4ca1-8e0a-d9d88062a102</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Create Placement</value>
+      <webElementGuid>2b075547-8acf-4cf1-85e2-4b516aaec9c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-truncate</value>
+      <webElementGuid>d8ff99d2-64b2-4f8f-a59b-9b488447ddca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>9:699;a</value>
+      <webElementGuid>777ecfb3-e5c3-4305-b201-4ee7725bb77c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create Placement</value>
+      <webElementGuid>af6adbc9-0bef-40d5-9b85-34772c265eda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;brandBand_2&quot;)/div[@class=&quot;slds-template__container&quot;]/div[@class=&quot;center oneCenterStage lafSinglePaneWindowManager&quot;]/div[@class=&quot;windowViewMode-normal oneContent active lafPageHost&quot;]/div[@class=&quot;oneRecordHomeFlexipage2Wrapper&quot;]/one-record-home-flexipage2[1]/forcegenerated-adg-rollup_component___force-generated__flexipage_-record-page___-submittal_-record_-page___-submittal__c___-v-i-e-w[@class=&quot;adg-rollup-wrapped&quot;]/forcegenerated-flexipage_submittal_record_page_submittal__c__view_js[@class=&quot;forcegenerated-flexipage-module&quot;]/record_flexipage-desktop-record-page-decorator[1]/div[@class=&quot;record-page-decorator&quot;]/records-record-layout-event-broker[1]/slot[1]/slot[1]/flexipage-record-home-template-desktop2[@class=&quot;forcegenerated-flexipage-template&quot;]/div[@class=&quot;slds-grid slds-wrap&quot;]/div[@class=&quot;slds-grid slds-wrap slds-col slds-size_1-of-1 row row-main&quot;]/div[@class=&quot;column slds-size_1-of-1 slds-medium-size_4-of-12 slds-large-size_4-of-12 region-sidebar-right&quot;]/slot[1]/flexipage-component2[1]/slot[1]/flexipage-aura-wrapper[1]/div[1]/div[@class=&quot;action-container cProcessButton&quot;]/div[@class=&quot;slds-dropdown-trigger&quot;]/div[@class=&quot;slds-dropdown slds-dropdown_right&quot;]/div[@class=&quot;slds-is-relative&quot;]/ul[@class=&quot;slds-dropdown__list&quot;]/li[@class=&quot;slds-dropdown__item&quot;]/a[1]/span[@class=&quot;slds-truncate&quot;]</value>
+      <webElementGuid>24a5af58-5df8-4fff-bc42-3eebb797297f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='brandBand_2']/div/div/div/div/one-record-home-flexipage2/forcegenerated-adg-rollup_component___force-generated__flexipage_-record-page___-submittal_-record_-page___-submittal__c___-v-i-e-w/forcegenerated-flexipage_submittal_record_page_submittal__c__view_js/record_flexipage-desktop-record-page-decorator/div/records-record-layout-event-broker/slot/slot/flexipage-record-home-template-desktop2/div/div[2]/div[2]/slot/flexipage-component2/slot/flexipage-aura-wrapper/div/div/div/div/div/ul/li[2]/a/span</value>
+      <webElementGuid>c998316a-7714-4111-b538-e3de759de039</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Onboarding'])[1]/following::span[1]</value>
+      <webElementGuid>c960d440-3d5e-4665-a9f1-1075bdfe1736</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Process'])[1]/following::span[3]</value>
+      <webElementGuid>ad03fa57-4040-4ad9-b522-2f26ac4f9f92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Schedule Client Interview'])[1]/preceding::span[1]</value>
+      <webElementGuid>58793e12-8331-4a85-95c7-bd370183c533</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading Actions'])[1]/preceding::span[2]</value>
+      <webElementGuid>e02d049e-e347-4818-b988-04be309585d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create Placement']/parent::*</value>
+      <webElementGuid>451fb3b6-b57f-4c09-8799-8ce9ba87d37e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span</value>
+      <webElementGuid>e46cacf8-98f0-4e0e-947e-66005df5b5a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'Create Placement' and (text() = 'Create Placement' or . = 'Create Placement')]</value>
+      <webElementGuid>798e5cd3-9805-4b85-94d7-693c8e543655</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

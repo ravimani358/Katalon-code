@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>User_select_contact</name>
+   <tag></tag>
+   <elementGuidId>dfc44724-9f5a-43db-8d28-45de1475c91e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[2]/h2/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[2]/h2/a</value>
+      <webElementGuid>209f8594-20dd-477d-a210-576bf10caa88</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Pay Policy_option</name>
+   <tag></tag>
+   <elementGuidId>296f2bb4-e0ed-47ff-b8c7-6fdcfaa63bcb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.slds-lookup__menu > ul.slds-lookup__list > li > span.slds-lookup__item-action.slds-media > div.slds-media__body > div.slds-lookup__result-text</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[@class='slds-lookup__result-text'])[3]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='brandBand_2']/div/div/div/div/one-record-home-flexipage2/forcegenerated-adg-rollup_component___force-generated__flexipage_-record-page___-submittal_-record_-page___-submittal__c___-v-i-e-w/forcegenerated-flexipage_submittal_record_page_submittal__c__view_js/record_flexipage-desktop-record-page-decorator/div/records-record-layout-event-broker/slot/slot/flexipage-record-home-template-desktop2/div/div[2]/div[2]/slot/flexipage-component2/slot/flexipage-aura-wrapper/div/div[2]/section/div/div/div/div[3]/div/div[4]/ul/li/span/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>29b623ea-4bc0-45f4-a1bb-f374d5631180</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-lookup__result-text</value>
+      <webElementGuid>0661fffb-e799-484c-8163-1802cd8168fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>6:1183;a</value>
+      <webElementGuid>9ba725f1-0185-46bd-b64c-1e56feefb1a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Testing Pay</value>
+      <webElementGuid>e9b514af-4f58-4efa-a14f-199b88b1896f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[@class='slds-lookup__result-text'])[3]</value>
+      <webElementGuid>9ee2aa39-ad33-4e07-a0b3-dc3659da3968</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='brandBand_2']/div/div/div/div/one-record-home-flexipage2/forcegenerated-adg-rollup_component___force-generated__flexipage_-record-page___-submittal_-record_-page___-submittal__c___-v-i-e-w/forcegenerated-flexipage_submittal_record_page_submittal__c__view_js/record_flexipage-desktop-record-page-decorator/div/records-record-layout-event-broker/slot/slot/flexipage-record-home-template-desktop2/div/div[2]/div[2]/slot/flexipage-component2/slot/flexipage-aura-wrapper/div/div[2]/section/div/div/div/div[3]/div/div[4]/ul/li/span/div/div</value>
+      <webElementGuid>3a9220f0-1d33-490e-920a-8d34963c3c65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('No results found for ', '&quot;', 'testing', '&quot;', '')])[1]/following::div[2]</value>
+      <webElementGuid>24913471-5cc2-47a7-bb56-68fc48eb4657</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Searching...'])[1]/following::div[6]</value>
+      <webElementGuid>c5a46dc7-17aa-4996-9d6c-822bba3a6fdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/preceding::div[1]</value>
+      <webElementGuid>6efdbf70-beb3-4809-8dc1-258da460c8dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Testing Pay']/parent::*</value>
+      <webElementGuid>96cab9d5-487f-4859-b584-73b92d1bde64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/ul/li/span/div/div</value>
+      <webElementGuid>c39ee601-3b0d-478d-ba37-e2360e466bd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Testing Pay' or . = 'Testing Pay')]</value>
+      <webElementGuid>2a3a82c7-b14b-4466-9302-fbe25af2ab81</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

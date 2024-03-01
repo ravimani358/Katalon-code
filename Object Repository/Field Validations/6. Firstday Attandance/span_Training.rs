@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Training</name>
+   <tag></tag>
+   <elementGuidId>66a16e58-230d-492e-a6f6-aa366376978c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[(text() = 'Training' or . = 'Training')])[1]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='brandBand_2']/div/div/div[2]/div/div/one-record-home-flexipage2/forcegenerated-adg-rollup_component___force-generated__flexipage_-record-page___-contact___-contact___-v-i-e-w/forcegenerated-flexipage_contact_contact__view_js/record_flexipage-desktop-record-page-decorator/div/records-record-layout-event-broker/slot/slot/flexipage-record-home-template-desktop2/div/div/slot/flexipage-component2/slot/flexipage-aura-wrapper/div/div/div[2]/div/div/table/tbody/tr/td[6]/ul/li/div/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3c1602e9-5f6d-4c74-a584-db7be66f31b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-form-element__static slds-cell-wrap</value>
+      <webElementGuid>8216c0be-a4b7-4459-8969-14871f268029</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>143:1457;a</value>
+      <webElementGuid>2bd0fc6b-adb2-4e9d-812f-b84b99564e71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Training</value>
+      <webElementGuid>d4b1a7e0-a269-4331-9ae3-9664af86c37b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[(text() = 'Training' or . = 'Training')])[1]</value>
+      <webElementGuid>996bfd2c-8020-4159-9392-1355e9ad9301</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='brandBand_2']/div/div/div[2]/div/div/one-record-home-flexipage2/forcegenerated-adg-rollup_component___force-generated__flexipage_-record-page___-contact___-contact___-v-i-e-w/forcegenerated-flexipage_contact_contact__view_js/record_flexipage-desktop-record-page-decorator/div/records-record-layout-event-broker/slot/slot/flexipage-record-home-template-desktop2/div/div/slot/flexipage-component2/slot/flexipage-aura-wrapper/div/div/div[2]/div/div/table/tbody/tr/td[6]/ul/li/div/div[2]/span</value>
+      <webElementGuid>a0ce98dc-16e0-4faa-a091-97407faf4ce1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/ul/li/div/div[2]/span</value>
+      <webElementGuid>0d32c171-b676-448d-b62e-429bf710f52d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Training' or . = 'Training')]</value>
+      <webElementGuid>f4264b32-24a0-49b7-950f-7cea5ceb90e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

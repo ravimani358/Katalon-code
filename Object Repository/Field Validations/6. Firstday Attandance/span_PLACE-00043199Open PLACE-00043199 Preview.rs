@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_PLACE-00043199Open PLACE-00043199 Preview</name>
+   <tag></tag>
+   <elementGuidId>958ec116-b876-4e21-b917-af01ea731c37</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#tab-24 > slot > flexipage-component2 > slot > lst-dynamic-related-list > article.slds-card.slds-card_boundary > laf-progressive-container > slot > lst-dynamic-related-list-with-user-prefs > lst-related-list-view-manager > lst-common-list-internal > div.slds-grid.listDisplays > div.slds-grid.slds-border__left.slds-border__right.listViewContainer > lst-primary-display-manager > div.slds-col.slds-no-space.display-wrapper > lst-primary-display > lst-primary-display-grid > lst-customized-datatable > div.dt-outer-container > div.slds-table_header-fixed_container.slds-scrollable_x > div.slds-scrollable_y > table.slds-table.slds-table_header-fixed.slds-table_bordered.slds-table_edit.slds-table_resizable-cols > tbody > tr.slds-hint-parent > th > lightning-primitive-cell-factory > span.slds-grid.slds-grid_align-spread</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>(//span[contains(text(),'PLACE')])[1]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//flexipage-tab2[@id='tab-24']/slot/flexipage-component2/slot/lst-dynamic-related-list/article/laf-progressive-container/slot/lst-dynamic-related-list-with-user-prefs/lst-related-list-view-manager/lst-common-list-internal/div/div/lst-primary-display-manager/div/lst-primary-display/lst-primary-display-grid/lst-customized-datatable/div[2]/div/div/table/tbody/tr/th/lightning-primitive-cell-factory/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b1b17363-832f-44b0-9fba-c0040880bcb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-grid slds-grid_align-spread</value>
+      <webElementGuid>8b553681-4339-417f-9913-6031c9ff326d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PLACE-00043199Open PLACE-00043199 Preview</value>
+      <webElementGuid>76f172b1-b859-43dc-b3e6-f36fcd94f5fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//span[contains(text(),'PLACE')])[1]</value>
+      <webElementGuid>7f9429bb-58a9-4040-be4d-8e87aae56840</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//flexipage-tab2[@id='tab-24']/slot/flexipage-component2/slot/lst-dynamic-related-list/article/laf-progressive-container/slot/lst-dynamic-related-list-with-user-prefs/lst-related-list-view-manager/lst-common-list-internal/div/div/lst-primary-display-manager/div/lst-primary-display/lst-primary-display-grid/lst-customized-datatable/div[2]/div/div/table/tbody/tr/th/lightning-primitive-cell-factory/span</value>
+      <webElementGuid>2f8c6ecb-781e-4843-adcb-0ce6423e37ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//flexipage-tab2[4]/slot/flexipage-component2/slot/lst-dynamic-related-list/article/laf-progressive-container/slot/lst-dynamic-related-list-with-user-prefs/lst-related-list-view-manager/lst-common-list-internal/div/div/lst-primary-display-manager/div/lst-primary-display/lst-primary-display-grid/lst-customized-datatable/div[2]/div/div/table/tbody/tr/th/lightning-primitive-cell-factory/span</value>
+      <webElementGuid>c972dcc1-4855-46e7-b97a-c31d74f24c83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'PLACE-00043199Open PLACE-00043199 Preview' or . = 'PLACE-00043199Open PLACE-00043199 Preview')]</value>
+      <webElementGuid>eac6655f-229c-4e1a-96e5-911918750325</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

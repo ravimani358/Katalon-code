@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Capacity_slds-radio_faux</name>
+   <tag></tag>
+   <elementGuidId>e55e5fa9-acab-4f3b-9207-4068e0cca3f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//span[@class = 'slds-radio_faux'])[1]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='brandBand_2']/div/div/div[3]/div/div/div[2]/div/div/div/div[2]/table/tbody/tr/th/lightning-input/div/span/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.slds-radio_faux</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>09bc111b-c9f9-479e-923f-b7a80b7c8a1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-radio_faux</value>
+      <webElementGuid>7ded6142-ef00-4e2e-b15d-564f15720875</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//span[@class = 'slds-radio_faux'])[1]</value>
+      <webElementGuid>7366cab2-08cc-4044-8a0e-ab5c12920b42</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='brandBand_2']/div/div/div[3]/div/div/div[2]/div/div/div/div[2]/table/tbody/tr/th/lightning-input/div/span/label/span</value>
+      <webElementGuid>c8e4509d-d502-4dc9-b89e-7698f23c6745</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th/lightning-input/div/span/label/span</value>
+      <webElementGuid>b73dfcd5-1b2e-4231-97eb-3c791c8f52a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

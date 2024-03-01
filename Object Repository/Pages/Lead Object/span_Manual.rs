@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Manual</name>
+   <tag></tag>
+   <elementGuidId>c521b501-8a6d-4688-9a24-d03b2f04b894</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//span[(text() = 'Manual' or . = 'Manual')])[2]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//lightning-base-combobox-item[@id='combobox-button-1019-2-1019']/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#combobox-button-1019-2-1019 > span.slds-media__body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>24f1e5e6-b290-45c6-9672-84383f5cd6de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-media__body</value>
+      <webElementGuid>27510e61-3c3d-4506-b93b-06cafabe1b30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manual</value>
+      <webElementGuid>c1a5b8cb-c5e8-4186-af34-fe4b0e5682d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//span[(text() = 'Manual' or . = 'Manual')])[2]</value>
+      <webElementGuid>aabdea54-e706-4c7b-bfd8-6d0566dee313</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//lightning-base-combobox-item[@id='combobox-button-1019-2-1019']/span[2]</value>
+      <webElementGuid>b284047d-f080-430e-b3b9-a09ae35bf571</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//flexipage-field[2]/slot/record_flexipage-record-field/div/div/slot/records-record-picklist/records-form-picklist/lightning-picklist/lightning-combobox/div/div/lightning-base-combobox/div/div/div[2]/lightning-base-combobox-item[3]/span[2]</value>
+      <webElementGuid>b65b9b57-4ed7-45d6-8e4d-1fb672f2cb8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Manual' or . = 'Manual')]</value>
+      <webElementGuid>1fc6509a-85af-4bb7-928d-7ce9e415d502</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>pay_policy</name>
+   <tag></tag>
+   <elementGuidId>329fec62-dc3b-437c-a0f7-81f16c29bf3e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//input[contains(@class,'slds-lookup__search-input')])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//input[contains(@class,'slds-lookup__search-input')])[1]</value>
+      <webElementGuid>57410c8e-bb09-4737-a01a-0f6eb10ad8d2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

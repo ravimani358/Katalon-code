@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Screening Availability</name>
+   <tag></tag>
+   <elementGuidId>f1723dcb-854f-48ed-ab6f-d41697055922</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Apps'])[1]/following::p[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.slds-truncate</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>11bfb964-44b3-4bbe-b962-7b965682d1ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-truncate</value>
+      <webElementGuid>f3df9851-f3cb-4824-a038-cf4fc89b7576</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Screening Availability</value>
+      <webElementGuid>f1628627-82f3-443d-bf38-ad5a34576027</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ScreeningAvailability&quot;)/div[@class=&quot;slds-size_small&quot;]/lightning-formatted-rich-text[@class=&quot;al-menu-item-label slds-truncate slds-rich-text-editor__output&quot;]/span[1]/p[@class=&quot;slds-truncate&quot;]</value>
+      <webElementGuid>6a21083f-e75c-40fd-bb24-c7415ab527fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='ScreeningAvailability']/div/lightning-formatted-rich-text/span/p</value>
+      <webElementGuid>ba81f34a-75a6-4f86-98cb-b90ca581a42e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Items'])[1]/following::p[1]</value>
+      <webElementGuid>85134f07-8d11-4b76-9c5e-78fcfd8283ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apps'])[1]/following::p[2]</value>
+      <webElementGuid>f2c4c610-d94f-41df-8b02-8a85069988ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Screening'])[2]/preceding::p[1]</value>
+      <webElementGuid>08122050-3f30-4972-a905-1b3e66880ed5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Availability']/parent::*</value>
+      <webElementGuid>178b54f4-cee0-4e60-a008-6f130f1bb975</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/p</value>
+      <webElementGuid>b26a4eeb-801a-4d58-8c69-9968ac627140</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Screening Availability' or . = 'Screening Availability')]</value>
+      <webElementGuid>73586c81-adf7-40ec-a79c-7e3190e17e85</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

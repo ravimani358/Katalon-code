@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Recruitment Last Activity Date</name>
+   <tag></tag>
+   <elementGuidId>88403a10-e6b1-4e33-9186-f7b83d5bf620</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//span[@class='slds-form-element__static slds-cell-wrap'])[6]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='brandBand_2']/div/div/div[2]/div/div/one-record-home-flexipage2/forcegenerated-adg-rollup_component___force-generated__flexipage_-record-page___-contact___-contact___-v-i-e-w/forcegenerated-flexipage_contact_contact__view_js/record_flexipage-desktop-record-page-decorator/div/records-record-layout-event-broker/slot/slot/flexipage-record-home-template-desktop2/div/div/slot/flexipage-component2/slot/flexipage-aura-wrapper/div/div/div[2]/div/div/table/tbody/tr/td[3]/ul/li[2]/div/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.slds-form-element__static.uiOutputDate</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>311338d1-979b-4b8a-8c29-bc4643b4272d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-form-element__static uiOutputDate</value>
+      <webElementGuid>1ae43d7f-3726-4a07-bed5-164e3f2767d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>88:1347;a</value>
+      <webElementGuid>5a920b37-512a-47d4-ba88-4d952aacec39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-class</name>
+      <type>Main</type>
+      <value>uiOutputDate</value>
+      <webElementGuid>9b8757e8-016c-4680-afc7-c387984c409c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nov 28, 2023</value>
+      <webElementGuid>09e94113-6b4b-4e8c-b8c7-d8ffd99f546e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//span[@class='slds-form-element__static slds-cell-wrap'])[6]</value>
+      <webElementGuid>b25db273-dafe-4d8c-8222-f24ce416997f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='brandBand_2']/div/div/div[2]/div/div/one-record-home-flexipage2/forcegenerated-adg-rollup_component___force-generated__flexipage_-record-page___-contact___-contact___-v-i-e-w/forcegenerated-flexipage_contact_contact__view_js/record_flexipage-desktop-record-page-decorator/div/records-record-layout-event-broker/slot/slot/flexipage-record-home-template-desktop2/div/div/slot/flexipage-component2/slot/flexipage-aura-wrapper/div/div/div[2]/div/div/table/tbody/tr/td[3]/ul/li[2]/div/div[2]/span</value>
+      <webElementGuid>f22e12cc-24dd-4bb9-a393-11e6a2748c8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/ul/li[2]/div/div[2]/span</value>
+      <webElementGuid>c81919d8-3dab-44ce-be84-092e7960bf4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Nov 28, 2023' or . = 'Nov 28, 2023')]</value>
+      <webElementGuid>8622b67f-2708-4e55-9e02-0d7c737dda20</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

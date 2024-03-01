@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_contact</name>
+   <tag></tag>
+   <elementGuidId>740fd845-6085-4ad0-be5a-aa79c63aecaa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//table[@data-aura-class='uiVirtualDataTable'])[2]//tbody/tr/th/span/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//table[@data-aura-class='uiVirtualDataTable'])[2]//tbody/tr/th/span/a</value>
+      <webElementGuid>55e331cf-57d3-4ae0-a927-18fb55f83017</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "3363CC098A005A8D0857B6C3023EE24D",
+  "keywordClasses": [
+    {
+      "name": "myPackage.Create_Training",
+      "keywordMethods": [
+        {
+          "name": "demoKey",
+          "parameters": [
+            {
+              "name": "name",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

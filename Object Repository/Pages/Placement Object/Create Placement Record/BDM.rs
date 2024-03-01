@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>BDM</name>
+   <tag></tag>
+   <elementGuidId>fa9afffe-ecd1-4ba1-a49a-7904efdbae49</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//label[text()='BDM']/following::input[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//label[text()='BDM']/following::input[1]</value>
+      <webElementGuid>1cb9cb89-8774-4359-a289-a0df9d98d3c2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

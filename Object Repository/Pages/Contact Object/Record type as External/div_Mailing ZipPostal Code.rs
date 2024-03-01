@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Mailing ZipPostal Code</name>
+   <tag></tag>
+   <elementGuidId>db638579-cb9c-4360-be46-670fc51dc44c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sectionContent-427']/div/slot/records-record-layout-row[3]/slot/records-record-layout-item/div/span/slot/records-record-layout-input-address/lightning-input-address/fieldset/div/div/div[5]/lightning-input/lightning-primitive-input-simple/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>lightning-input.slds-form-element.slds-show.slds-size_6-of-6 > lightning-primitive-input-simple > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2b819dee-8d10-40ca-9522-5aa1e0636754</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>part</name>
+      <type>Main</type>
+      <value>input-text</value>
+      <webElementGuid>91fc7ada-1e3e-4c3c-9eb2-ac52f7d57da1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mailing Zip/Postal Code</value>
+      <webElementGuid>55d68768-acd0-466b-8bd4-041e947c1c62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sectionContent-427&quot;)/div[@class=&quot;slds-form&quot;]/slot[1]/records-record-layout-row[@class=&quot;slds-form__row&quot;]/slot[@class=&quot;slds-grid slds-size_1-of-1&quot;]/records-record-layout-item[@class=&quot;slds-form__item slds-no-space&quot;]/div[@class=&quot;slds-grid slds-size_1-of-1 label-inline&quot;]/span[@class=&quot;test-id__field-value slds-size_1-of-1&quot;]/slot[1]/records-record-layout-input-address[1]/lightning-input-address[@class=&quot;slds-form-element_stacked slds-form-element slds-form_compound&quot;]/fieldset[@class=&quot;slds-form-element&quot;]/div[@class=&quot;slds-form-element__control&quot;]/div[@class=&quot;slds-form-element__group&quot;]/div[@class=&quot;slds-form-element__row&quot;]/lightning-input[@class=&quot;slds-form-element slds-show slds-size_6-of-6&quot;]/lightning-primitive-input-simple[1]/div[1]</value>
+      <webElementGuid>99c79d39-c409-4b6e-a95a-072d4dc943ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sectionContent-427']/div/slot/records-record-layout-row[3]/slot/records-record-layout-item/div/span/slot/records-record-layout-input-address/lightning-input-address/fieldset/div/div/div[5]/lightning-input/lightning-primitive-input-simple/div</value>
+      <webElementGuid>39251ab5-aca5-4fbd-ad0c-fa4f56bee9d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//lightning-input-address/fieldset/div/div/div[5]/lightning-input/lightning-primitive-input-simple/div</value>
+      <webElementGuid>d000998b-0419-4c72-b567-75d3a8835c09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Mailing Zip/Postal Code' or . = 'Mailing Zip/Postal Code')]</value>
+      <webElementGuid>cb339654-8775-4baf-87ad-736e1f93c8a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

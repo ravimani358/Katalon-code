@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_California</name>
+   <tag></tag>
+   <elementGuidId>4d31c995-2321-42b0-a3e6-24418d7b6aa2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@title = 'California' and (text() = 'California' or . = 'California')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//lightning-base-combobox-item[@id='combobox-input-459-5-459']/span[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#combobox-input-459-5-459 > span.slds-media__body > span.slds-truncate</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>eff7111f-e4bd-494e-ac34-a30f10f8db5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-truncate</value>
+      <webElementGuid>9d84a163-fa76-444f-8f4d-4428e1a07abd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>California</value>
+      <webElementGuid>6596b23e-d613-4584-9431-788a3853938d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>California</value>
+      <webElementGuid>01b79589-7507-44e8-899b-744a54b2116b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[@title = 'California' and (text() = 'California' or . = 'California')]</value>
+      <webElementGuid>c413cbef-2174-402c-b271-aa76bf559a42</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//lightning-base-combobox-item[@id='combobox-input-459-5-459']/span[2]/span</value>
+      <webElementGuid>91c2804b-5d69-4194-beb8-1be6892c06d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/lightning-picklist/lightning-combobox/div/div/lightning-base-combobox/div/div/div[2]/lightning-base-combobox-item[6]/span[2]/span</value>
+      <webElementGuid>a559a671-b031-4551-9141-928b77b54551</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'California' and (text() = 'California' or . = 'California')]</value>
+      <webElementGuid>c86c7301-c46a-4169-98df-620224d5f0ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

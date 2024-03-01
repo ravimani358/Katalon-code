@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>primary_technology</name>
+   <tag></tag>
+   <elementGuidId>c12b7f64-a249-410d-8d63-270a4ceae76e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//button[contains(@class,'slds-combobox__input-value')])[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//button[contains(@class,'slds-combobox__input-value')])[6]</value>
+      <webElementGuid>3a62a380-e596-4b72-8055-0091a4c1c777</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

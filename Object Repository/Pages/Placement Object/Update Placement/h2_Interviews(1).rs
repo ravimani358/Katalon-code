@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Interviews(1)</name>
+   <tag></tag>
+   <elementGuidId>ddaed9fd-f0b2-40ed-8305-1d33d8b0758a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2.slds-card__header-title</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Submittal History (1) Preview'])[1]/following::h2[1]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//flexipage-tab2[@id='tab-3']/slot/flexipage-component2[2]/slot/lst-related-list-container/div/div/lst-related-list-single-container/laf-progressive-container/slot/lst-related-list-single-app-builder-mapper/article/lst-related-list-view-manager/lst-common-list-internal/lst-list-view-manager-header/div/div/div/div/div/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>9e55a7a0-5534-446c-bacc-a3ff491d5fc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-card__header-title</value>
+      <webElementGuid>52af81ee-e68e-4b0a-be8f-7cb01ad2c2ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Interviews(1)</value>
+      <webElementGuid>35ab5fa3-3925-413a-90c7-83385878c725</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Submittal History (1) Preview'])[1]/following::h2[1]</value>
+      <webElementGuid>f34d6e02-9d79-4368-9847-b06704c9f4a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//flexipage-tab2[@id='tab-3']/slot/flexipage-component2[2]/slot/lst-related-list-container/div/div/lst-related-list-single-container/laf-progressive-container/slot/lst-related-list-single-app-builder-mapper/article/lst-related-list-view-manager/lst-common-list-internal/lst-list-view-manager-header/div/div/div/div/div/h2</value>
+      <webElementGuid>78445a10-bc29-4935-addf-26d07f620a22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Submittal History (1) Preview'])[1]/following::h2[1]</value>
+      <webElementGuid>3935245e-5d94-4ed9-8c4d-6dab8ffeb8fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submittal History (1)'])[1]/following::h2[1]</value>
+      <webElementGuid>43ce6e27-fecc-4995-b75b-89f47fc1ec08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/h2</value>
+      <webElementGuid>ce1313be-020a-426c-b493-e2280e392578</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Interviews(1)' or . = 'Interviews(1)')]</value>
+      <webElementGuid>e678e514-27b5-48a6-95d5-949cd5500412</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

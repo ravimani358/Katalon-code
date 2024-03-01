@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lightning-formatted-text_Testing Opportunity12</name>
+   <tag></tag>
+   <elementGuidId>09efb4aa-a391-4835-b484-b28aa5823a62</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Opportunity Name'])[1]/following::lightning-formatted-text[1]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sectionContent-222']/div/slot/records-record-layout-row[2]/slot/records-record-layout-item/div/div/div[2]/span/slot/lightning-formatted-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>lightning-formatted-text</value>
+      <webElementGuid>0350c67f-e467-4cde-a214-1d1ff57ebea4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-output-element-id</name>
+      <type>Main</type>
+      <value>output-field</value>
+      <webElementGuid>9a16b396-e499-4320-a896-62b59366d3c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>slot</name>
+      <type>Main</type>
+      <value>outputField</value>
+      <webElementGuid>e2a07d4f-556e-456b-b9c4-e9cfecb61148</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Testing Opportunity12</value>
+      <webElementGuid>c6d3c4ae-28c3-47ce-9df0-dd86e91ec57b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Opportunity Name'])[1]/following::lightning-formatted-text[1]</value>
+      <webElementGuid>f1974d10-c662-4b3e-970e-b9896288c1b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sectionContent-222']/div/slot/records-record-layout-row[2]/slot/records-record-layout-item/div/div/div[2]/span/slot/lightning-formatted-text</value>
+      <webElementGuid>d2a19954-9e9f-444d-ad8d-8c562bd0c1c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Opportunity Name'])[1]/following::lightning-formatted-text[1]</value>
+      <webElementGuid>acbc1dd4-63b3-4f80-ac1e-2f507836688d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Close Date'])[1]/following::lightning-formatted-text[1]</value>
+      <webElementGuid>84147000-e088-47b8-bf06-4f7a3e42ab9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Opportunity Name'])[1]/preceding::lightning-formatted-text[1]</value>
+      <webElementGuid>1cbaddeb-0ed0-49d6-9418-fab39b4165b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Target SOW Date'])[1]/preceding::lightning-formatted-text[1]</value>
+      <webElementGuid>35945900-1ce2-4241-89b6-74fe41193fda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//records-record-layout-row[2]/slot/records-record-layout-item/div/div/div[2]/span/slot/lightning-formatted-text</value>
+      <webElementGuid>b581628e-d100-4f40-b72a-36a87b4db646</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//lightning-formatted-text[(text() = 'Testing Opportunity12' or . = 'Testing Opportunity12')]</value>
+      <webElementGuid>ef6a4515-01cc-4d34-b67e-4b1175d38bd9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

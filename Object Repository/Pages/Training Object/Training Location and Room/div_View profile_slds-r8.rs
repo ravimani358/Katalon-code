@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_View profile_slds-r8</name>
+   <tag></tag>
+   <elementGuidId>857d03ac-2817-4ccb-b2e7-4343ee8f9065</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button/div/div[8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.slds-r8</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2a61f521-a918-4b53-92e6-655403193a22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-r8</value>
+      <webElementGuid>4e74de83-a381-48c6-a346-29233171e220</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;desktop&quot;]/div[@class=&quot;desktop container forceStyle oneOne navexDesktopLayoutContainer lafAppLayoutHost forceAccess tablet&quot;]/div[@class=&quot;viewport&quot;]/section[@class=&quot;layoutContent stage panelSlide&quot;]/div[@class=&quot;none navexStandardManager&quot;]/div[@class=&quot;slds-no-print oneAppNavContainer&quot;]/one-appnav[1]/div[@class=&quot;slds-context-bar&quot;]/div[@class=&quot;slds-context-bar__primary navLeft&quot;]/div[@class=&quot;slds-context-bar__item slds-context-bar_dropdown-trigger slds-dropdown-trigger slds-dropdown-trigger--click slds-no-hover&quot;]/div[@class=&quot;appLauncher slds-context-bar__icon-action&quot;]/one-app-launcher-header[@class=&quot;slds-icon-waffle_container&quot;]/button[@class=&quot;slds-button slds-show&quot;]/div[@class=&quot;slds-icon-waffle&quot;]/div[@class=&quot;slds-r8&quot;]</value>
+      <webElementGuid>623f6819-aaed-4d17-99ba-8bde5bbde0af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/div[8]</value>
+      <webElementGuid>a2af7426-eef1-47c7-8fa8-6ec8ef497143</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

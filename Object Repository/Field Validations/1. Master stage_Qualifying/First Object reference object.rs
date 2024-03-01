@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>First Object reference object</name>
+   <tag></tag>
+   <elementGuidId>6a6142e1-95a5-4dce-ae4a-b92fd224bf59</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//span[contains(text(),'REF')])[1]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='field-section-content-171']/slot/flexipage-column2[2]/div/slot/flexipage-field[5]/slot/record_flexipage-record-field/div/div/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3a9243f6-e947-4777-849a-4a84609d2ebd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>test-id__field-value slds-form-element__static slds-grow word-break-ie11 is-read-only</value>
+      <webElementGuid>12a1237c-8264-483e-a3a6-ea1b344e427d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>REF-03605119Open REF-03605119 Preview</value>
+      <webElementGuid>6e55b682-f524-4337-afac-5bd8c322cfc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//span[contains(text(),'REF')])[1]</value>
+      <webElementGuid>78f8eedb-d104-4e58-a235-c6cd32a1a737</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='field-section-content-171']/slot/flexipage-column2[2]/div/slot/flexipage-field[5]/slot/record_flexipage-record-field/div/div/div[2]/span</value>
+      <webElementGuid>a9fb4816-29e0-41bd-85ad-256055781faa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//flexipage-column2[2]/div/slot/flexipage-field[5]/slot/record_flexipage-record-field/div/div/div[2]/span</value>
+      <webElementGuid>49e52472-78b9-4f52-9cf9-59a8227bc68f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'REF-03605119Open REF-03605119 Preview' or . = 'REF-03605119Open REF-03605119 Preview')]</value>
+      <webElementGuid>a8402d08-b56a-4a2a-a3e7-d2717c900f3f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

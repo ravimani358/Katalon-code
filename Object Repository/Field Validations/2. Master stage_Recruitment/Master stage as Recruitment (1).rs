@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Master stage as Recruitment (1)</name>
+   <tag></tag>
+   <elementGuidId>0130bc86-2a29-4c5a-b3bb-db8d0c0139bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@slot = 'output' and (text() = 'Recruitment' or . = 'Recruitment')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='field-section-content-204']/slot/flexipage-column2/div/slot/flexipage-field/slot/record_flexipage-record-field/div/div/div[2]/span/slot/lightning-formatted-text</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#field-section-content-204 > slot[name=&quot;columns&quot;] > flexipage-column2.column.flex-width > div.slds-col.slds-p-horizontal_small.slds-p-vertical_x-small > slot.column > flexipage-field > slot > record_flexipage-record-field.slds-grid.slds-col.slds-has-flexi-truncate > div.slds-grid.slds-size_1-of-1.label-inline > div.slds-form-element.slds-hint-parent.test-id__output-root.slds-form-element_readonly.slds-form-element_horizontal > div.slds-form-element__control > span.test-id__field-value.slds-form-element__static.slds-grow.word-break-ie11.is-read-only > slot[name=&quot;output&quot;] > lightning-formatted-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>lightning-formatted-text</value>
+      <webElementGuid>3230cb47-4eb0-4309-b2aa-cc037bd62a89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-output-element-id</name>
+      <type>Main</type>
+      <value>output-field</value>
+      <webElementGuid>7a25a69e-55eb-417c-81e5-ed87f53c030c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>slot</name>
+      <type>Main</type>
+      <value>output</value>
+      <webElementGuid>bb8dfaf9-c6b0-45f7-86a3-5b925d4a7b97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Recruitment</value>
+      <webElementGuid>766dbdc9-227a-469f-94d4-23d5a723527f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;field-section-content-204&quot;)/slot[1]/flexipage-column2[@class=&quot;column flex-width&quot;]/div[@class=&quot;slds-col slds-p-horizontal_small slds-p-vertical_x-small&quot;]/slot[@class=&quot;column&quot;]/flexipage-field[1]/slot[1]/record_flexipage-record-field[@class=&quot;slds-grid slds-col slds-has-flexi-truncate&quot;]/div[@class=&quot;slds-grid slds-size_1-of-1 label-inline&quot;]/div[@class=&quot;slds-form-element slds-hint-parent test-id__output-root slds-form-element_readonly slds-form-element_horizontal&quot;]/div[@class=&quot;slds-form-element__control&quot;]/span[@class=&quot;test-id__field-value slds-form-element__static slds-grow word-break-ie11 is-read-only&quot;]/slot[1]/lightning-formatted-text[1]</value>
+      <webElementGuid>080b38bc-384c-4ed3-a709-90be825408c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='field-section-content-204']/slot/flexipage-column2/div/slot/flexipage-field/slot/record_flexipage-record-field/div/div/div[2]/span/slot/lightning-formatted-text</value>
+      <webElementGuid>bffd5ff8-082f-4f36-84c8-eeb55cf550c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//flexipage-component2[5]/slot/flexipage-field-section2/div/div/div/laf-progressive-container/slot/div/slot/flexipage-column2/div/slot/flexipage-field/slot/record_flexipage-record-field/div/div/div[2]/span/slot/lightning-formatted-text</value>
+      <webElementGuid>96cd2896-1129-4364-a11f-1be82849ece3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//lightning-formatted-text[(text() = 'Recruitment' or . = 'Recruitment')]</value>
+      <webElementGuid>13fd7cc2-5247-4c31-a14f-ec0fb31406a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

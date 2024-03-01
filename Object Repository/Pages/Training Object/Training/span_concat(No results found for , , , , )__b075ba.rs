@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_concat(No results found for , , , , )__b075ba</name>
+   <tag></tag>
+   <elementGuidId>b3b4bd48-6ae1-4e56-a459-263b0ed575ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.slds-checkbox_faux</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='brandBand_2']/div/div/div[3]/div/div/div/div/div[3]/div[2]/lightning-input/div/span/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b31cc290-1398-4692-86e2-569011a9c5a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-checkbox_faux</value>
+      <webElementGuid>9cf8ac16-c269-4c1f-9de1-6284b42de85e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;brandBand_2&quot;)/div[@class=&quot;slds-template__container&quot;]/div[@class=&quot;center oneCenterStage lafSinglePaneWindowManager&quot;]/div[@class=&quot;windowViewMode-normal oneContent active lafPageHost&quot;]/div[@class=&quot;overridePresent inlinePanel oneRecordActionWrapper&quot;]/div[@class=&quot;actionBody&quot;]/div[@class=&quot;slds-brand-band slds-brand-band_cover slds-brand-band_medium slds-template_default forceBrandBand cCreateTrainingBatch&quot;]/div[1]/div[@class=&quot;slds-section slds-is-open&quot;]/div[@class=&quot;training-fields slds-section__content&quot;]/lightning-input[@class=&quot;slds-p-top_xx-small slds-form-element&quot;]/div[@class=&quot;slds-form-element__control slds-grow&quot;]/span[@class=&quot;slds-checkbox&quot;]/label[@class=&quot;slds-checkbox__label&quot;]/span[@class=&quot;slds-checkbox_faux&quot;]</value>
+      <webElementGuid>0d2905ca-f658-43b5-aba3-091e64be4548</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='brandBand_2']/div/div/div[3]/div/div/div/div/div[3]/div[2]/lightning-input/div/span/label/span</value>
+      <webElementGuid>3a30f765-8304-414b-b101-96ea16d3948e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//lightning-input/div/span/label/span</value>
+      <webElementGuid>435f22b1-7147-47d4-8dd9-e797d1e6fe5a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

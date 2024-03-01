@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_slds-icon slds-icon-text-default slds-i_104800</name>
+   <tag></tag>
+   <elementGuidId>911d4747-ef82-4bb5-9efe-10aa6f73799d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>lightning-icon.slds-icon-utility-down.dropdown-icon.slds-icon_container > span > lightning-primitive-icon > svg.slds-icon.slds-icon-text-default.slds-icon_xx-small</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>1b07a956-d5fc-4cd9-837f-fc022a74fa99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-icon slds-icon-text-default slds-icon_xx-small</value>
+      <webElementGuid>548d8380-a597-4059-bb95-abb93807ad55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>df7d4586-bb5c-4825-9a96-72a3ddc08df8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-key</name>
+      <type>Main</type>
+      <value>down</value>
+      <webElementGuid>9d62a161-eab5-4d89-bdf7-5421260b01ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>ec2b2478-663f-44c7-83fc-d70bfe7b39e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 520 520</value>
+      <webElementGuid>24e5723a-ecc8-4383-8153-336e49f2ee53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>part</name>
+      <type>Main</type>
+      <value>icon</value>
+      <webElementGuid>cb39c69c-3959-45b4-8c86-66431b25dd15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;brandBand_2&quot;)/div[@class=&quot;slds-template__container&quot;]/div[@class=&quot;center oneCenterStage lafSinglePaneWindowManager&quot;]/div[@class=&quot;windowViewMode-normal oneContent active lafPageHost&quot;]/div[@class=&quot;oneRecordHomeFlexipage2Wrapper&quot;]/div[@class=&quot;recordHomeFlexipage2&quot;]/one-record-home-flexipage2[1]/forcegenerated-adg-rollup_component___force-generated__flexipage_-record-page___-external-contact___-contact___-v-i-e-w[@class=&quot;adg-rollup-wrapped&quot;]/forcegenerated-flexipage_externalcontact_contact__view_js[@class=&quot;forcegenerated-flexipage-module&quot;]/record_flexipage-desktop-record-page-decorator[1]/div[@class=&quot;record-page-decorator&quot;]/records-record-layout-event-broker[1]/slot[1]/slot[1]/flexipage-record-home-template-desktop2[@class=&quot;forcegenerated-flexipage-template&quot;]/div[@class=&quot;slds-grid slds-wrap&quot;]/div[@class=&quot;slds-grid slds-wrap slds-col slds-size_1-of-1 row row-main&quot;]/div[@class=&quot;column slds-size_1-of-1 slds-medium-size_4-of-12 slds-large-size_4-of-12 region-sidebar-right&quot;]/slot[1]/flexipage-component2[1]/slot[1]/flexipage-aura-wrapper[1]/div[1]/div[@class=&quot;action-container cProcessButton&quot;]/div[@class=&quot;slds-dropdown-trigger&quot;]/button[@class=&quot;slds-button slds-button_neutral&quot;]/lightning-icon[@class=&quot;slds-icon-utility-down dropdown-icon slds-icon_container&quot;]/span[1]/lightning-primitive-icon[1]/svg[@class=&quot;slds-icon slds-icon-text-default slds-icon_xx-small&quot;]</value>
+      <webElementGuid>513adde8-a833-4cb8-85e9-a125e58d78b9</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

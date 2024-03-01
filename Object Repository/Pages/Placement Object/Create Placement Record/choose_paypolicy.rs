@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>choose_paypolicy</name>
+   <tag></tag>
+   <elementGuidId>c62ed7c8-0357-4bd8-8353-7cb374df47e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[text()='STANDARD']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[text()='STANDARD']</value>
+      <webElementGuid>ecd21c92-61b8-4f6a-8527-2075929f285d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

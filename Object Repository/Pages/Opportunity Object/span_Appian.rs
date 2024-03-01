@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Appian</name>
+   <tag></tag>
+   <elementGuidId>cde4b6ca-7998-4904-a4e8-3edefb68abd6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#combobox-button-161-4-161 > span.slds-media__body > span.slds-truncate</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@title = 'Appian' and (text() = 'Appian' or . = 'Appian')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//lightning-base-combobox-item[@id='combobox-button-161-4-161']/span[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3b4ee005-00aa-41c6-95d7-e7ace7a6c556</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-truncate</value>
+      <webElementGuid>58e555c2-b792-4ec4-9fdf-afb4223a8877</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Appian</value>
+      <webElementGuid>12664f53-2d01-4fc5-a725-67eab24c58d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Appian</value>
+      <webElementGuid>99ed5ec9-9feb-4a58-a3bf-ff1d3bde2772</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[@title = 'Appian' and (text() = 'Appian' or . = 'Appian')]</value>
+      <webElementGuid>538909d7-d51d-4c55-9049-5c79f78d10d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//lightning-base-combobox-item[@id='combobox-button-161-4-161']/span[2]/span</value>
+      <webElementGuid>91190875-6a71-4d49-865a-6cdc0794ee2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AI Engineering'])[1]/following::span[3]</value>
+      <webElementGuid>4df68723-e7de-4414-9291-14112896337d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Azure Data Factory'])[1]/following::span[6]</value>
+      <webElementGuid>c6fb82ff-3b78-4a00-81ef-704ddd3fbc84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Azure'])[1]/preceding::span[2]</value>
+      <webElementGuid>a6d3710f-521f-4a74-8908-a24b2c8be477</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Big Data'])[1]/preceding::span[5]</value>
+      <webElementGuid>ad708aca-dfdf-442b-85a9-7785a326d463</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Appian']/parent::*</value>
+      <webElementGuid>f0d2b4d1-8305-4f60-9f2c-2da5cbc60e7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//records-record-layout-row[6]/slot/records-record-layout-item/div/span/slot/records-record-picklist/records-form-picklist/lightning-picklist/lightning-combobox/div/lightning-base-combobox/div/div[2]/lightning-base-combobox-item[5]/span[2]/span</value>
+      <webElementGuid>8b2fda85-4e5a-4e9f-bb64-4867db5168f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'Appian' and (text() = 'Appian' or . = 'Appian')]</value>
+      <webElementGuid>2b03008a-1e0b-414e-90a4-ed341f7f9924</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

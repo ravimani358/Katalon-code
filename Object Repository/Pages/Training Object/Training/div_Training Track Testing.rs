@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Training Track Testing</name>
+   <tag></tag>
+   <elementGuidId>6d376068-5c1d-470d-82e6-db9d39b6524d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.slds-lookup__menu > ul.slds-lookup__list > li > span.slds-lookup__item-action.slds-media > div.slds-media__body > div.slds-lookup__result-text</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>(//span[@class='slds-media__body']/span/*[contains(@title,'Core Testing katalon')])[2]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='brandBand_2']/div/div/div[3]/div/div/div/div/div[2]/div/div/div[2]/div/div[4]/ul/li/span/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>73091271-0247-477b-9e59-9433d245adc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-lookup__result-text</value>
+      <webElementGuid>9b6fb53c-f1ab-4e6d-925d-f97034e8af09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>6:2766;a</value>
+      <webElementGuid>876753b7-addc-4f27-929d-a9ad32450d57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Training Track Testing</value>
+      <webElementGuid>21d0aa85-5b6d-42a0-96af-f001a8ec5abe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//span[@class='slds-media__body']/span/*[contains(@title,'Core Testing katalon')])[2]</value>
+      <webElementGuid>641cb8f6-6917-4eaa-ba57-03360368f936</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='brandBand_2']/div/div/div[3]/div/div/div/div/div[2]/div/div/div[2]/div/div[4]/ul/li/span/div/div</value>
+      <webElementGuid>f7594270-6901-4ec8-8e88-dca21a99c855</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('No results found for ', '&quot;', 'testing', '&quot;', '')])[1]/following::div[2]</value>
+      <webElementGuid>677146f1-cb6b-419d-9f4c-e6c28ca36097</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Searching...'])[1]/following::div[6]</value>
+      <webElementGuid>a5abdc51-ff5b-4235-b2bb-228623a5f125</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Training Track Testing']/parent::*</value>
+      <webElementGuid>81631da4-fbd7-46e1-8232-716c2577d653</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/ul/li/span/div/div</value>
+      <webElementGuid>ce5f2e38-762b-421d-9384-9df1e6c32b4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Training Track Testing' or . = 'Training Track Testing')]</value>
+      <webElementGuid>47952880-d299-4afe-9feb-03d818eb3f59</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Contact</name>
+   <tag></tag>
+   <elementGuidId>e2536367-31f6-4baa-97a8-86f969e20854</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[text()='Contacts']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[text()='Contacts']</value>
+      <webElementGuid>0e06be95-1f3b-417c-8d8f-10b902d986a3</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

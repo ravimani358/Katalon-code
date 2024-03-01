@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC2_Create contact (89961)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5d97135-b328-4a9d-b438-c29a07f598f3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8d675026-47cd-494e-a158-2d5cb3e11ffd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.contact_Url</defaultValue>
+      <description></description>
+      <id>8d675026-47cd-494e-a158-2d5cb3e11ffd</id>
+      <masked>false</masked>
+      <name>contactUrl</name>
+   </variable>
+</TestCaseEntity>

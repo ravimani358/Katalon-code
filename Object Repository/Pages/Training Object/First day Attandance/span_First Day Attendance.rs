@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_First Day Attendance</name>
+   <tag></tag>
+   <elementGuidId>26dc2723-a6c1-44b1-a32f-71424fd1cadc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='brandBand_2']/div/div/div/div/one-record-home-flexipage2/forcegenerated-adg-rollup_component___force-generated__flexipage_-record-page___-training_-record_-page___-training__c___-v-i-e-w/forcegenerated-flexipage_training_record_page_training__c__view_js/record_flexipage-record-page-decorator/div/records-record-layout-event-broker/slot/slot/flexipage-record-home-template-desktop2/div/div/slot/flexipage-component2/slot/flexipage-aura-wrapper/div/div/div/div[2]/div/div/div/div/ul/li[4]/a/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@title='First Day Attendance']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7684bfa3-4c18-45bc-9da2-ef0220cdb17e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>First Day Attendance</value>
+      <webElementGuid>ca5d5b18-4c64-46c7-aaa2-6f502e98a384</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-truncate</value>
+      <webElementGuid>ce20c207-64c6-439e-b025-76ece4ab2a26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>17:594;a</value>
+      <webElementGuid>bc9342ed-672a-416f-a8a8-adc6f632dad7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>First Day Attendance</value>
+      <webElementGuid>3248512a-4deb-495f-a83a-fd04a9d957bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[@title='First Day Attendance']</value>
+      <webElementGuid>0a387f72-63ca-47c6-a289-18baf68cce3c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='brandBand_2']/div/div/div/div/one-record-home-flexipage2/forcegenerated-adg-rollup_component___force-generated__flexipage_-record-page___-training_-record_-page___-training__c___-v-i-e-w/forcegenerated-flexipage_training_record_page_training__c__view_js/record_flexipage-record-page-decorator/div/records-record-layout-event-broker/slot/slot/flexipage-record-home-template-desktop2/div/div/slot/flexipage-component2/slot/flexipage-aura-wrapper/div/div/div/div[2]/div/div/div/div/ul/li[4]/a/span</value>
+      <webElementGuid>61743da4-29b3-46f1-8ec7-c8e9452d704a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update Training Class Tags'])[1]/following::span[1]</value>
+      <webElementGuid>752cc3ce-5985-4096-ae08-ab127f48cce6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Promotion Ceremony Complete'])[1]/following::span[2]</value>
+      <webElementGuid>750824a5-2ba1-4e03-8506-119b28742ffd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update Training Details'])[1]/preceding::span[1]</value>
+      <webElementGuid>2f8b65ce-4626-4c68-8060-2e48e1f1bc59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update Training Room/Dates'])[1]/preceding::span[2]</value>
+      <webElementGuid>2c052873-6b5c-4faa-94b8-ffaba1c2846e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='First Day Attendance']/parent::*</value>
+      <webElementGuid>94df8ba9-f3b5-4016-bd6a-383f9f974ad3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a/span</value>
+      <webElementGuid>9ea9a078-1209-418e-9c1a-3e40f87957f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'First Day Attendance' and (text() = 'First Day Attendance' or . = 'First Day Attendance')]</value>
+      <webElementGuid>2d0d1af3-a9bd-4c21-bce5-f69686693897</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

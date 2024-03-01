@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Interview_record</name>
+   <tag></tag>
+   <elementGuidId>e9ba26bf-e58d-4cc8-8983-3fcff0d006fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//a[contains(@href,'view')]/slot/slot/span[contains(text(),'INT')])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//a[contains(@href,'view')]/slot/slot/span[contains(text(),'INT')])[1]</value>
+      <webElementGuid>41feadca-4694-405f-b355-e5643efc2139</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

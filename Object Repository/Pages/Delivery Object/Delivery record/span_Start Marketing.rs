@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Start Marketing</name>
+   <tag></tag>
+   <elementGuidId>50b32073-e692-4f82-8155-8c49d99ecf40</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='contact-header']/div/div[2]/div/div/div/div/ul/li[18]/a/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@title = 'Start Marketing' and (text() = 'Start Marketing' or . = 'Start Marketing')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c18d382c-2f36-4f01-ab09-812cab881525</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Start Marketing</value>
+      <webElementGuid>b0f97bab-3dbc-4446-a155-dd840016e00c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-truncate</value>
+      <webElementGuid>e11f3060-65a7-44d4-b578-cd21f6136471</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>73:638;a</value>
+      <webElementGuid>defc380f-3bcc-49f3-b03e-8836c715bfb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Start Marketing</value>
+      <webElementGuid>27b00f7f-5862-4a84-afd6-13d69fa70889</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contact-header&quot;)/div[@class=&quot;slds-grid&quot;]/div[@class=&quot;slds-col slds-no-flex slds-grid slds-align-top&quot;]/div[@class=&quot;action-container cProcessButton&quot;]/div[@class=&quot;slds-dropdown-trigger&quot;]/div[@class=&quot;slds-dropdown slds-dropdown_right&quot;]/div[@class=&quot;slds-is-relative&quot;]/ul[@class=&quot;slds-dropdown__list&quot;]/li[@class=&quot;slds-dropdown__item&quot;]/a[1]/span[@class=&quot;slds-truncate&quot;]</value>
+      <webElementGuid>41fa1da6-fa9e-4aa8-9564-af19cad66d96</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contact-header']/div/div[2]/div/div/div/div/ul/li[18]/a/span</value>
+      <webElementGuid>0f38203e-fa83-43bf-9359-5f6fc216cb35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start High Risk'])[1]/following::span[1]</value>
+      <webElementGuid>c1931cb6-e1b7-4c81-b29b-5cf15ffc6816</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Breach'])[1]/following::span[2]</value>
+      <webElementGuid>2951ed9f-7f3c-4b8e-8115-5cf87dfc13b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Mutual Release'])[1]/preceding::span[1]</value>
+      <webElementGuid>b7c63268-3033-45a7-9b95-833b45457fcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit to Job'])[1]/preceding::span[2]</value>
+      <webElementGuid>8d46e21d-0f7a-4a7a-b758-2b6dccaf67fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Start Marketing']/parent::*</value>
+      <webElementGuid>b71413eb-098d-43cc-888d-51efa7c02ed9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[18]/a/span</value>
+      <webElementGuid>ce2717e8-4e4b-4bc4-a209-99d9ccc596c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'Start Marketing' and (text() = 'Start Marketing' or . = 'Start Marketing')]</value>
+      <webElementGuid>2cb45412-6d7b-41e2-8c05-f6c8bf041c76</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

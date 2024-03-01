@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Technology Save button</name>
+   <tag></tag>
+   <elementGuidId>dde78a07-9cf5-4702-aba9-1f9a8c1c44d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@name = 'SaveEdit']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@name='SaveEdit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button[name=&quot;SaveEdit&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a7b7d33d-e3ff-4a55-adc4-d8ed3d1513cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-button slds-button_brand</value>
+      <webElementGuid>88a08fd7-7c7b-492d-a276-d0126952bb64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>SaveEdit</value>
+      <webElementGuid>0a2e6972-0fa2-48ae-b6fa-7cc71b795cf9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b5fc4ada-60f8-47aa-8546-e67b1be5aff6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save</value>
+      <webElementGuid>095c1850-c289-4566-a8aa-6dd5de8a9283</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content_1559:0&quot;)/div[@class=&quot;windowViewMode-normal oneRecordActionWrapper isModal active lafPageHost&quot;]/div[@class=&quot;isModal inlinePanel oneRecordActionWrapper&quot;]/div[@class=&quot;actionBody&quot;]/records-modal-lwc-detail-panel-wrapper[1]/records-record-layout-event-broker[1]/slot[1]/records-lwc-detail-panel[1]/records-base-record-form[1]/div[@class=&quot;slds-clearfix detail-panel-root footer-visible&quot;]/div[@class=&quot;base-record-form-header-container&quot;]/div[@class=&quot;record-body-container&quot;]/records-form-footer[@class=&quot;slds-docked-form-footer fixedFooter&quot;]/div[1]/div[@class=&quot;center-align-buttons&quot;]/div[1]/runtime_platform_actions-actions-ribbon[1]/ul[@class=&quot;slds-button-group-row&quot;]/li[@class=&quot;slds-button-group-item visible&quot;]/runtime_platform_actions-action-renderer[1]/runtime_platform_actions-executor-lwc-headless[1]/slot[1]/slot[1]/lightning-button[1]/button[@class=&quot;slds-button slds-button_brand&quot;]</value>
+      <webElementGuid>f04b7df8-4e3f-49a5-ba30-f99551501b01</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@name='SaveEdit']</value>
+      <webElementGuid>0535307c-8cab-4e92-82cf-516aebd42069</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content_1559:0']/div/div/div/records-modal-lwc-detail-panel-wrapper/records-record-layout-event-broker/slot/records-lwc-detail-panel/records-base-record-form/div/div/div/records-form-footer/div/div/div/runtime_platform_actions-actions-ribbon/ul/li[3]/runtime_platform_actions-action-renderer/runtime_platform_actions-executor-lwc-headless/slot/slot/lightning-button/button</value>
+      <webElementGuid>67794c07-7947-4275-878a-3a597311de77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save &amp; New'])[1]/following::button[1]</value>
+      <webElementGuid>5809ee01-4b93-4ae5-8c8d-a61efafed903</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/following::button[2]</value>
+      <webElementGuid>a00ae20e-4c41-4174-b774-a05c85f4aa21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[3]/preceding::button[1]</value>
+      <webElementGuid>b7ffae06-faf4-468f-a32f-a309cc3d1df6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/runtime_platform_actions-action-renderer/runtime_platform_actions-executor-lwc-headless/slot/slot/lightning-button/button</value>
+      <webElementGuid>4578e954-f5c3-4dd5-b029-f1b811899a9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@name = 'SaveEdit' and @type = 'button' and (text() = 'Save' or . = 'Save')]</value>
+      <webElementGuid>0d80b1af-09a5-4801-8229-74d322b0ac30</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Approved</name>
+   <tag></tag>
+   <elementGuidId>53768d94-95c6-4c64-920e-34d765fef924</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//lightning-base-combobox-item[@id='combobox-button-543-1-543']/span[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#combobox-button-543-1-543 > span.slds-media__body > span.slds-truncate</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@title = 'Approved' and (text() = 'Approved' or . = 'Approved')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6fdffa71-9a52-4da9-b8cc-7a5e439cb989</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-truncate</value>
+      <webElementGuid>5a4d7dfd-71de-4792-a732-630be24f0a4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Approved</value>
+      <webElementGuid>886fceb4-a870-46a0-8087-81d4ad9fd98a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Approved</value>
+      <webElementGuid>b7159d16-8c92-4141-a485-6868289a5d9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[@title = 'Approved' and (text() = 'Approved' or . = 'Approved')]</value>
+      <webElementGuid>6ecc0f6a-62fe-4300-85a7-83c8f6f7e038</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//lightning-base-combobox-item[@id='combobox-button-543-1-543']/span[2]/span</value>
+      <webElementGuid>e59a9720-f67f-445d-a18d-64f485566db4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//lightning-combobox/div/div/lightning-base-combobox/div/div/div[2]/lightning-base-combobox-item[2]/span[2]/span</value>
+      <webElementGuid>3e03c0c7-fbd1-47b0-b138-eff788c9dab9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'Approved' and (text() = 'Approved' or . = 'Approved')]</value>
+      <webElementGuid>75d85089-9ad5-41d8-a3e8-c623d40a92b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

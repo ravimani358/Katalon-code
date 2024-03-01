@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Operating_country</name>
+   <tag></tag>
+   <elementGuidId>acfd9177-c5b8-4459-b991-8e7418541ade</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//button[contains(@class,'slds-combobox__input')])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//button[contains(@class,'slds-combobox__input')])[4]</value>
+      <webElementGuid>e4f1d952-132d-4cfc-a888-7c17e90fe59a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

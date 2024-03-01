@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Selected status</name>
+   <tag></tag>
+   <elementGuidId>6ddb4a87-22ce-4fd4-b7bb-c288b4b8e4f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[(text() = 'Training Assigned' or . = 'Training Assigned')])[1]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='brandBand_2']/div/div/div/div/div/one-record-home-flexipage2/forcegenerated-adg-rollup_component___force-generated__flexipage_-record-page___-contact___-contact___-v-i-e-w/forcegenerated-flexipage_contact_contact__view_js/record_flexipage-desktop-record-page-decorator/div/records-record-layout-event-broker/slot/slot/flexipage-record-home-template-desktop2/div/div/slot/flexipage-component2/slot/flexipage-aura-wrapper/div/div/div[2]/div/div/table/tbody/tr/td[5]/ul/li/div/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c13215ee-dcb1-4716-8adb-a0736c2dc52c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-form-element__static slds-cell-wrap</value>
+      <webElementGuid>a039dafc-934f-407e-88d7-312d1ee512d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>122:806;a</value>
+      <webElementGuid>74e483fb-4497-43eb-a2c4-2e7f313916cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Training Assigned</value>
+      <webElementGuid>d6e6fb59-b149-4102-a3e3-e70e3a013115</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[(text() = 'Training Assigned' or . = 'Training Assigned')])[1]</value>
+      <webElementGuid>1da44f66-76d7-4b15-bbc6-966d80a09480</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='brandBand_2']/div/div/div/div/div/one-record-home-flexipage2/forcegenerated-adg-rollup_component___force-generated__flexipage_-record-page___-contact___-contact___-v-i-e-w/forcegenerated-flexipage_contact_contact__view_js/record_flexipage-desktop-record-page-decorator/div/records-record-layout-event-broker/slot/slot/flexipage-record-home-template-desktop2/div/div/slot/flexipage-component2/slot/flexipage-aura-wrapper/div/div/div[2]/div/div/table/tbody/tr/td[5]/ul/li/div/div[2]/span</value>
+      <webElementGuid>628fba43-9264-45e9-8421-fd4901f35cfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/ul/li/div/div[2]/span</value>
+      <webElementGuid>c81a63f1-1a8d-4cd5-af05-6461d240c4c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Training Assigned' or . = 'Training Assigned')]</value>
+      <webElementGuid>64300999-b623-42f4-ab6f-8d059b31582f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Trainer</name>
+   <tag></tag>
+   <elementGuidId>85d0abfd-8004-450c-868f-9572be85b3a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@title = 'Trainer' and (text() = 'Trainer' or . = 'Trainer')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//lightning-base-combobox-item[@id='combobox-button-279-3-279']/span[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#combobox-button-279-3-279 > span.slds-media__body > span.slds-truncate</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5747140a-c56d-4996-ab93-be697fd0685f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-truncate</value>
+      <webElementGuid>b2202867-17ac-4a09-ae5a-14e1cbc164f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Trainer</value>
+      <webElementGuid>3b38b17c-a67d-4348-9c22-c972793eb770</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Trainer</value>
+      <webElementGuid>9632245d-4dc4-4e8e-9861-d454696286c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[@title = 'Trainer' and (text() = 'Trainer' or . = 'Trainer')]</value>
+      <webElementGuid>390522c3-ca8d-4fd5-9f8e-3e9037b5d666</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//lightning-base-combobox-item[@id='combobox-button-279-3-279']/span[2]/span</value>
+      <webElementGuid>e7fae1ff-f320-42ed-a6fe-02ae1a863e7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//records-record-layout-row[9]/slot/records-record-layout-item[2]/div/span/slot/records-record-picklist/records-form-picklist/lightning-picklist/lightning-combobox/div/div/lightning-base-combobox/div/div/div[2]/lightning-base-combobox-item[4]/span[2]/span</value>
+      <webElementGuid>38ce9ddb-8ce5-45b6-a798-4ff49328f2b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'Trainer' and (text() = 'Trainer' or . = 'Trainer')]</value>
+      <webElementGuid>b101f492-b8d7-48f6-ada4-855247f2677b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

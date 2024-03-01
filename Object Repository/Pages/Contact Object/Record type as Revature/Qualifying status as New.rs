@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Qualifying status as New</name>
+   <tag></tag>
+   <elementGuidId>dedbc063-98cb-455b-be9a-94ffd9442dd2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@title='New']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sectionContent-135']/div/slot/records-record-layout-row/slot/records-record-layout-item/div/span/slot/records-record-layout-input-name/lightning-input-name/fieldset/div/div/div[4]/lightning-input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>lightning-input.slds-form-element.slds-has-error</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>lightning-input</value>
+      <webElementGuid>4c259837-d0f0-41ac-aaab-32049e8f7806</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-field</name>
+      <type>Main</type>
+      <value>lastName</value>
+      <webElementGuid>3a024238-eec3-4ffe-a2f3-b900876ef831</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-form-element slds-has-error</value>
+      <webElementGuid>44093cde-6e87-429f-9c86-abb355efcc31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>*Last NameComplete this field.</value>
+      <webElementGuid>ead7745e-32b7-4e65-83ed-3b65063a7594</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[@title='New']</value>
+      <webElementGuid>ceefae0a-e250-4de1-b5c5-5c2ef2337ad1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sectionContent-135']/div/slot/records-record-layout-row/slot/records-record-layout-item/div/span/slot/records-record-layout-input-name/lightning-input-name/fieldset/div/div/div[4]/lightning-input</value>
+      <webElementGuid>0aa3a6a5-c5ba-4f36-9889-6816a8c6d058</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Middle Name'])[1]/following::lightning-input[1]</value>
+      <webElementGuid>084efe02-0062-4b74-b238-708cd666a96e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First Name'])[1]/following::lightning-input[2]</value>
+      <webElementGuid>99a857ec-b082-4135-9029-b9b261f61f81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/lightning-input</value>
+      <webElementGuid>55c37cf2-9035-4176-9ca2-9d23d42313d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//lightning-input[(text() = '*Last NameComplete this field.' or . = '*Last NameComplete this field.')]</value>
+      <webElementGuid>8a6857cf-53e8-4b96-96fd-4270670b9570</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

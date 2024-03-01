@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Full Time</name>
+   <tag></tag>
+   <elementGuidId>0ab5ce3b-cdce-4d0a-8d57-7f5d6d39f5d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@title = 'Full Time' and (text() = 'Full Time' or . = 'Full Time')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//lightning-base-combobox-item[@id='combobox-button-217-1-217']/span[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#combobox-button-217-1-217 > span.slds-media__body > span.slds-truncate</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0f607874-d31c-4a2e-8df7-c62a5d18d145</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-truncate</value>
+      <webElementGuid>8e6e06e0-ce6d-45a1-903b-2b2140618459</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Full Time</value>
+      <webElementGuid>2a04d17c-b4ba-47cf-a354-ecb2b977da3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Full Time</value>
+      <webElementGuid>2a8fe2d7-52f7-4a0a-b2d4-1a7ddae45862</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;combobox-button-217-1-217&quot;)/span[@class=&quot;slds-media__body&quot;]/span[@class=&quot;slds-truncate&quot;]</value>
+      <webElementGuid>722f1ea9-d8ea-43d5-b62c-7e7a613fa17e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//lightning-base-combobox-item[@id='combobox-button-217-1-217']/span[2]/span</value>
+      <webElementGuid>6243159f-f218-45ae-904a-f5bc04413af4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//lightning-base-combobox-item[2]/span[2]/span</value>
+      <webElementGuid>0f33af5f-b9a6-4259-a67c-463b678dd42a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'Full Time' and (text() = 'Full Time' or . = 'Full Time')]</value>
+      <webElementGuid>f4206bc7-6945-4125-9949-90d1a5e9f0ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

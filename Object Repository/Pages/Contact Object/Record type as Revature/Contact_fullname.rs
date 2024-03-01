@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Contact_fullname</name>
+   <tag></tag>
+   <elementGuidId>8693f458-f33f-4c99-a9ce-bd640656aad7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//span[contains(@class,'slds-page-header__title')])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//span[contains(@class,'slds-page-header__title')])[2]</value>
+      <webElementGuid>41968ba5-62f5-4353-bada-74c897ceda4f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

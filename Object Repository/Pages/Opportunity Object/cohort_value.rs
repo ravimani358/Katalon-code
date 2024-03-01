@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>cohort_value</name>
+   <tag></tag>
+   <elementGuidId>b1af16aa-2d92-4e42-ad50-139ae1f48a85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[text()='No']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[text()='No']</value>
+      <webElementGuid>2151b753-0e4c-4feb-aae1-4455e73a2451</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>contact_name</name>
+   <tag></tag>
+   <elementGuidId>9f59f142-6d7a-441e-b3ca-82642e8f54be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[contains(@class,'custom-truncate')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[contains(@class,'custom-truncate')]</value>
+      <webElementGuid>324ef25d-644f-486e-8ab2-e5652d542c2b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

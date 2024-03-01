@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_BA testing contact1</name>
+   <tag></tag>
+   <elementGuidId>d4fa9997-6604-4f57-bd06-b29424eeb9fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.slds-lookup__menu > ul.slds-lookup__list > li > span.slds-lookup__item-action.slds-media > div.slds-media__body > div.slds-lookup__result-text</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[contains(text(),'QA Test Business Contact 1')]/ancestor::span)[2]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='brandBand_2']/div/div/div/div/div/one-record-home-flexipage2/forcegenerated-adg-rollup_component___force-generated__flexipage_-record-page___-submittal_-record_-page___-submittal__c___-v-i-e-w/forcegenerated-flexipage_submittal_record_page_submittal__c__view_js/record_flexipage-desktop-record-page-decorator/div/records-record-layout-event-broker/slot/slot/flexipage-record-home-template-desktop2/div/div[2]/div[2]/slot/flexipage-component2/slot/flexipage-aura-wrapper/div/div[2]/section/div/div/div/div[6]/div/div[4]/ul/li/span/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5e08ac8c-4631-4d0f-a8c6-8aafad07a372</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-lookup__result-text</value>
+      <webElementGuid>8461eacf-91c1-44f4-8a37-bac0c710e2b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>7:1260;a</value>
+      <webElementGuid>81d9460c-3219-4919-952b-82e4cf011ae2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BA testing contact1</value>
+      <webElementGuid>7350d970-c5c4-4ae7-b2df-6f90049ca358</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[contains(text(),'QA Test Business Contact 1')]/ancestor::span)[2]</value>
+      <webElementGuid>f6946194-7ef8-4130-ab56-f96c99549414</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='brandBand_2']/div/div/div/div/div/one-record-home-flexipage2/forcegenerated-adg-rollup_component___force-generated__flexipage_-record-page___-submittal_-record_-page___-submittal__c___-v-i-e-w/forcegenerated-flexipage_submittal_record_page_submittal__c__view_js/record_flexipage-desktop-record-page-decorator/div/records-record-layout-event-broker/slot/slot/flexipage-record-home-template-desktop2/div/div[2]/div[2]/slot/flexipage-component2/slot/flexipage-aura-wrapper/div/div[2]/section/div/div/div/div[6]/div/div[4]/ul/li/span/div/div</value>
+      <webElementGuid>c2df5de7-0150-42b9-8d53-07f9294d9114</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div[4]/ul/li/span/div/div</value>
+      <webElementGuid>8123d745-3178-4002-9dd0-7d3d2beeb019</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'BA testing contact1' or . = 'BA testing contact1')]</value>
+      <webElementGuid>151c7bab-8010-44f8-a145-6732c590f078</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

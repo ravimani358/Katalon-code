@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_TRNG-00001666</name>
+   <tag></tag>
+   <elementGuidId>1ea2dee4-5a5d-4b5a-96c0-cf6ca9cbbeac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sent'])[2]/following::span[3]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Option Day Signed Date'])[1]/preceding::span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#sectionContent-1130 > div.slds-form > slot > records-record-layout-row.slds-form__row > slot.slds-grid.slds-size_1-of-1 > records-record-layout-item.slds-form__item.slds-no-space > div.slds-grid.slds-size_1-of-1.label-inline > div.slds-form-element.slds-hint-parent.test-id__output-root.slds-form-element_readonly.slds-form-element_horizontal > div.slds-form-element__control > span.test-id__field-value.slds-form-element__static.slds-grow.word-break-ie11.is-read-only > slot[name=&quot;outputField&quot;] > force-lookup > div.slds-grid > records-hoverable-link.slds-grow.flex-wrap-ie11 > div.slds-grid > a.flex-wrap-ie11 > slot > slot > #window</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>be125fea-991f-44d5-a122-9773b2b4e718</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-proxy-id</name>
+      <type>Main</type>
+      <value>aura-pos-lib-8</value>
+      <webElementGuid>c7a5e700-66f7-4b11-9c10-40ea6450f7f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>window</value>
+      <webElementGuid>d294489d-5cd0-4f39-9843-fd55ec4fa786</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TRNG-00001666</value>
+      <webElementGuid>515c109b-6d8e-4c93-b59b-1e27c0b5084a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Option Day Signed Date'])[1]/preceding::span[2]</value>
+      <webElementGuid>5bc9a741-e2ec-4b86-ae7d-d0284984527d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//span[@id='window'])[2]</value>
+      <webElementGuid>3b45e9f2-2c74-4f7d-8c60-a4a397e8f295</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sectionContent-1130']/div/slot/records-record-layout-row[2]/slot/records-record-layout-item/div/div/div[2]/span/slot/force-lookup/div/records-hoverable-link/div/a/slot/slot/span</value>
+      <webElementGuid>e535fd52-3c5d-4573-8f0e-f4f20ed24a2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training'])[2]/following::span[2]</value>
+      <webElementGuid>4ac5595c-13a2-4607-960d-36c09ba0b1f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sent'])[2]/following::span[3]</value>
+      <webElementGuid>9799f75b-93b2-45f0-8013-18057079e190</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open TRNG-00001666 Preview'])[1]/preceding::span[1]</value>
+      <webElementGuid>1005765f-0641-4998-b540-1a45e38b146e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Option Day Signed Date'])[1]/preceding::span[2]</value>
+      <webElementGuid>90fbf8e9-9d16-448d-8d95-c3821d0b51bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='TRNG-00001666']/parent::*</value>
+      <webElementGuid>ecc59586-1027-43e4-a3fb-244f2bc9d42e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//records-record-layout-row[2]/slot/records-record-layout-item/div/div/div[2]/span/slot/force-lookup/div/records-hoverable-link/div/a/slot/slot/span</value>
+      <webElementGuid>ed06691d-cefe-45d6-ae89-0109e32c43dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'window' and (text() = 'TRNG-00001666' or . = 'TRNG-00001666')]</value>
+      <webElementGuid>448426db-fcab-4018-ade6-b2c581872190</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

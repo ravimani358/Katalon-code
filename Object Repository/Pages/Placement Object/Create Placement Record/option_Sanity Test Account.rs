@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>option_Sanity Test Account</name>
+   <tag></tag>
+   <elementGuidId>ccb9dd49-c3a1-4333-9998-1ffdae498e60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.slds-lookup__menu > ul.slds-lookup__list > li > span.slds-lookup__item-action.slds-media > div.slds-media__body > div.slds-lookup__result-text</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[contains(text(),'Business Auto Acc')]/ancestor::span)[2]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='brandBand_2']/div/div/div/div/div/one-record-home-flexipage2/forcegenerated-adg-rollup_component___force-generated__flexipage_-record-page___-submittal_-record_-page___-submittal__c___-v-i-e-w/forcegenerated-flexipage_submittal_record_page_submittal__c__view_js/record_flexipage-desktop-record-page-decorator/div/records-record-layout-event-broker/slot/slot/flexipage-record-home-template-desktop2/div/div[2]/div[2]/slot/flexipage-component2/slot/flexipage-aura-wrapper/div/div[2]/section/div/div/div/div[8]/div/div[4]/ul/li/span/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6808ae5e-d691-4dc2-9aca-015a5503dcad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-lookup__result-text</value>
+      <webElementGuid>d9ff9ab5-0a5e-4e0d-bd9c-a10633510097</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>7:1339;a</value>
+      <webElementGuid>b0d5e44a-98df-43fb-9c81-5ef28b0bc844</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sanity Test Account</value>
+      <webElementGuid>8e784784-db07-4109-9c1a-ebedf3fda8f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[contains(text(),'Business Auto Acc')]/ancestor::span)[2]</value>
+      <webElementGuid>341dda43-2c56-44bf-8aa1-d456d875d885</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='brandBand_2']/div/div/div/div/div/one-record-home-flexipage2/forcegenerated-adg-rollup_component___force-generated__flexipage_-record-page___-submittal_-record_-page___-submittal__c___-v-i-e-w/forcegenerated-flexipage_submittal_record_page_submittal__c__view_js/record_flexipage-desktop-record-page-decorator/div/records-record-layout-event-broker/slot/slot/flexipage-record-home-template-desktop2/div/div[2]/div[2]/slot/flexipage-component2/slot/flexipage-aura-wrapper/div/div[2]/section/div/div/div/div[8]/div/div[4]/ul/li/span/div/div</value>
+      <webElementGuid>7c1cc8a2-e7c0-4b69-92f2-db82a5448bb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div[4]/ul/li/span/div/div</value>
+      <webElementGuid>7c105692-f743-4397-9e12-478f70efd0fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sanity Test Account' or . = 'Sanity Test Account')]</value>
+      <webElementGuid>593aecdf-e6ad-4bb0-b902-c5169c082c3f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

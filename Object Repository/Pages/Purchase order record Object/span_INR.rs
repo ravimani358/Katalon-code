@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_INR</name>
+   <tag></tag>
+   <elementGuidId>d8d1663e-1af7-4854-8579-bdbb61e95a35</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//lightning-base-combobox-item[@id='combobox-button-561-1-561']/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#combobox-button-561-1-561 > span.slds-media__body</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[(text()= 'INR')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f57970a5-f24c-4972-a1e8-55dd10f9bb44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-media__body</value>
+      <webElementGuid>a5b61402-2a05-47a8-bc45-98329557ac46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>INR</value>
+      <webElementGuid>0979a60f-b31d-4c82-8651-04af74d4d9dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[(text()= 'INR')]</value>
+      <webElementGuid>33dcb6b7-73dc-4591-8bfb-2317c866c9a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//lightning-base-combobox-item[@id='combobox-button-561-1-561']/span[2]</value>
+      <webElementGuid>371111ef-82fc-4283-bdef-5bbbfd098b5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//records-record-layout-row[5]/slot/records-record-layout-item/div/span/slot/records-record-picklist/records-form-picklist/lightning-picklist/lightning-combobox/div/div/lightning-base-combobox/div/div/div[2]/lightning-base-combobox-item[2]/span[2]</value>
+      <webElementGuid>e2ab6b09-29bd-470f-a0e0-1afaf478fde2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'INR' or . = 'INR')]</value>
+      <webElementGuid>4d0497ae-52dd-427c-ac91-475bbd400e6c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

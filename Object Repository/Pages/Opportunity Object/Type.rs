@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Type</name>
+   <tag></tag>
+   <elementGuidId>0a9738eb-7223-4323-b847-a3ccc77a020a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//label[text()='Type']/following-sibling::div)[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//label[text()='Type']/following-sibling::div)[1]</value>
+      <webElementGuid>df7cf23c-e670-4f4a-9092-026db5ed05c8</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

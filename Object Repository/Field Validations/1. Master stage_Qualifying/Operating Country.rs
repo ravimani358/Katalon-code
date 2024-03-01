@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Operating Country</name>
+   <tag></tag>
+   <elementGuidId>b15e795b-bdaf-4659-9b6c-af0f61083b83</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//lightning-formatted-text[(text() = 'United States' or . = 'United States')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='field-section-content-192']/slot/flexipage-column2/div/slot/flexipage-field[3]/slot/record_flexipage-record-field/div/div/div[2]/span/slot/lightning-formatted-text</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#field-section-content-192 > slot[name=&quot;columns&quot;] > flexipage-column2.column.flex-width > div.slds-col.slds-p-horizontal_small.slds-p-vertical_x-small > slot.column > flexipage-field:nth-of-type(3) > slot > record_flexipage-record-field.slds-grid.slds-col.slds-has-flexi-truncate > div.slds-grid.slds-size_1-of-1.label-stacked.undefined > div.slds-form-element.slds-hint-parent.test-id__output-root.slds-form-element_readonly.slds-form-element_stacked > div.slds-form-element__control > span.test-id__field-value.slds-form-element__static.slds-grow.word-break-ie11.is-read-only > slot[name=&quot;output&quot;] > lightning-formatted-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>lightning-formatted-text</value>
+      <webElementGuid>492d7d74-4864-4755-9b21-629e48c3867b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-output-element-id</name>
+      <type>Main</type>
+      <value>output-field</value>
+      <webElementGuid>6b033be6-0169-4cfb-ac5a-273f20ec02b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>slot</name>
+      <type>Main</type>
+      <value>output</value>
+      <webElementGuid>229a3a8a-5f61-434a-a5be-b4f7f6e11376</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>United States</value>
+      <webElementGuid>34b01bca-10ed-46d9-85f6-ca8723c33be6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//lightning-formatted-text[(text() = 'United States' or . = 'United States')]</value>
+      <webElementGuid>e77baaff-1251-446a-9ce3-e81fd353a006</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='field-section-content-192']/slot/flexipage-column2/div/slot/flexipage-field[3]/slot/record_flexipage-record-field/div/div/div[2]/span/slot/lightning-formatted-text</value>
+      <webElementGuid>f8a0fd3b-e8d4-4db8-ace4-f3023595f5e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//flexipage-component2[5]/slot/flexipage-field-section2/div/div/div/laf-progressive-container/slot/div/slot/flexipage-column2/div/slot/flexipage-field[3]/slot/record_flexipage-record-field/div/div/div[2]/span/slot/lightning-formatted-text</value>
+      <webElementGuid>c51ebc4b-0257-4d9a-9ced-4c0d9f065b2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//lightning-formatted-text[(text() = 'United States' or . = 'United States')]</value>
+      <webElementGuid>5dc73450-e400-4421-8291-0a2751702fcb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lightning-formatted-text_test1 training1</name>
+   <tag></tag>
+   <elementGuidId>72e4de39-a72c-4b49-b645-4380ee2447ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Training Track'])[2]/following::lightning-formatted-text[1]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sectionContent-174']/div/slot/records-record-layout-row/slot/records-record-layout-item/div/div/div[2]/span/slot/lightning-formatted-text</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>slot[name=&quot;outputField&quot;] > lightning-formatted-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>lightning-formatted-text</value>
+      <webElementGuid>b87704c7-cb7c-4ce8-8b4e-7dcd3a279b24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-output-element-id</name>
+      <type>Main</type>
+      <value>output-field</value>
+      <webElementGuid>f9139f7f-f564-42ef-b17a-aa40a50d1bf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>slot</name>
+      <type>Main</type>
+      <value>outputField</value>
+      <webElementGuid>737551f3-de2b-47c2-9d73-9f8965baef98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>test1 training1</value>
+      <webElementGuid>98454d18-eca1-46ea-b738-452e03285b2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training Track'])[2]/following::lightning-formatted-text[1]</value>
+      <webElementGuid>4e5ab8d7-59df-4272-8cbc-75e15283145b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sectionContent-174']/div/slot/records-record-layout-row/slot/records-record-layout-item/div/div/div[2]/span/slot/lightning-formatted-text</value>
+      <webElementGuid>7c77dce8-73a8-43cc-bce5-f14f9da5809f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training Track'])[2]/following::lightning-formatted-text[1]</value>
+      <webElementGuid>2cae8c9d-41ec-4483-92ef-f7563b2cef84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tabs'])[2]/following::lightning-formatted-text[1]</value>
+      <webElementGuid>a1592a2f-2ebc-48b6-a1d6-63cd094e98c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Training Track'])[1]/preceding::lightning-formatted-text[1]</value>
+      <webElementGuid>35f6351c-93cc-43be-847a-b22012acb509</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[3]/preceding::lightning-formatted-text[1]</value>
+      <webElementGuid>2d32da19-aa09-4d7a-bfe2-a60a149478a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/slot/lightning-formatted-text</value>
+      <webElementGuid>0e16c948-6b32-42cb-aafe-cc6f2b19c78a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//lightning-formatted-text[(text() = 'test1 training1' or . = 'test1 training1')]</value>
+      <webElementGuid>5d1aaf42-7485-4144-818d-a13590a6acd5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

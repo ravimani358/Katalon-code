@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_TestingXperts</name>
+   <tag></tag>
+   <elementGuidId>30d40834-c6ff-449d-93b4-bc37318cd932</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//li/lightning-base-combobox-item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Account'])[1]/following::span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#combobox-input-1344-1-1344 > span.slds-media__body > span.slds-listbox__option-text.slds-listbox__option-text_entity</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2c8e5596-ea7f-4b8e-836b-97910643be9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-listbox__option-text slds-listbox__option-text_entity</value>
+      <webElementGuid>92b925ae-e325-4b47-9ce5-ba7ae44b70a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TestingXperts</value>
+      <webElementGuid>99fcf84f-a84d-496f-b9ff-c7a3febddd1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//li/lightning-base-combobox-item</value>
+      <webElementGuid>b3ae038e-4d2f-428b-b7d5-afc79d5d3456</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//lightning-base-combobox-item[@id='combobox-input-1344-1-1344']/span[2]/span</value>
+      <webElementGuid>4c14197d-1659-4b2b-8287-4fde0d77124b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account'])[1]/following::span[2]</value>
+      <webElementGuid>6f34103f-86c7-4475-9149-e46aa31b63ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Show All Results for ', '&quot;', 'testing', '&quot;', '')])[1]/following::span[4]</value>
+      <webElementGuid>0b5a2a0b-ddb4-4448-a3dc-bb5efe54dd30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/lightning-base-combobox-item/span[2]/span</value>
+      <webElementGuid>64f93997-20e1-49ea-809b-79d836dac6b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'TestingXperts' or . = 'TestingXperts')]</value>
+      <webElementGuid>5d5d1804-be5a-4882-a550-9cea18887587</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

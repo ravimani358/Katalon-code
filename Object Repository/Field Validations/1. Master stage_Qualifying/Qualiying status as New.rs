@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Qualiying status as New</name>
+   <tag></tag>
+   <elementGuidId>14d0518b-a5b6-4eee-b770-3cb0e2549b99</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//lightning-formatted-text[(text() = 'New' or . = 'New')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='field-section-content-192']/slot/flexipage-column2/div/slot/flexipage-field[2]/slot/record_flexipage-record-field/div/div/div[2]/span/slot/lightning-formatted-text</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#field-section-content-192 > slot[name=&quot;columns&quot;] > flexipage-column2.column.flex-width > div.slds-col.slds-p-horizontal_small.slds-p-vertical_x-small > slot.column > flexipage-field:nth-of-type(2) > slot > record_flexipage-record-field.slds-grid.slds-col.slds-has-flexi-truncate > div.slds-grid.slds-size_1-of-1.label-stacked.undefined > div.slds-form-element.slds-hint-parent.test-id__output-root.slds-form-element_readonly.slds-form-element_stacked > div.slds-form-element__control > span.test-id__field-value.slds-form-element__static.slds-grow.word-break-ie11.is-read-only > slot[name=&quot;output&quot;] > lightning-formatted-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>lightning-formatted-text</value>
+      <webElementGuid>bc799874-ae67-4a70-937d-d4eb5060b2f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-output-element-id</name>
+      <type>Main</type>
+      <value>output-field</value>
+      <webElementGuid>18bf7f5b-c96a-447d-93f2-cde085026492</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>slot</name>
+      <type>Main</type>
+      <value>output</value>
+      <webElementGuid>9937a3a6-41f4-4624-8c9b-4b7f2f63baa5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Recruiter Transfer</value>
+      <webElementGuid>7f6f1767-843c-42c0-b1f7-82cd1d21a615</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//lightning-formatted-text[(text() = 'New' or . = 'New')]</value>
+      <webElementGuid>3b1bc6d1-0beb-48ca-a552-2d3efc36dcf2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='field-section-content-192']/slot/flexipage-column2/div/slot/flexipage-field[2]/slot/record_flexipage-record-field/div/div/div[2]/span/slot/lightning-formatted-text</value>
+      <webElementGuid>63096449-e861-407e-a2b8-eee1e6fe2622</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//flexipage-component2[5]/slot/flexipage-field-section2/div/div/div/laf-progressive-container/slot/div/slot/flexipage-column2/div/slot/flexipage-field[2]/slot/record_flexipage-record-field/div/div/div[2]/span/slot/lightning-formatted-text</value>
+      <webElementGuid>c411073c-be8c-4164-bcf8-1f33aa84c5df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//lightning-formatted-text[(text() = 'Recruiter Transfer' or . = 'Recruiter Transfer')]</value>
+      <webElementGuid>a7a873be-bc8f-4064-8764-b8b66030d08d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
